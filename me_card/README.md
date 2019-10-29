@@ -1,4 +1,4 @@
 # me_card
 
-[v](screenshot.jpg)
+[](screenshot.png)
 
