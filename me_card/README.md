@@ -1,4 +1,4 @@
 # me_card
 
-[](screenshot.png)
+![screenshot of final app](screenshot.png)
 
