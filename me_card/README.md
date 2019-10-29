@@ -1,4 +1,5 @@
 # me_card
 
-![screenshot of final app](screenshot.png)
-
+<p align="center">
+  <img src="screenshot.png" width="350" title="screenshot of final app">
+</p>
